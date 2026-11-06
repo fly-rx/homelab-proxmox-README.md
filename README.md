@@ -41,4 +41,4 @@ Proxmox / virtualization · Windows Server 2022 · Active Directory · DNS · LX
 - [ ] Add network diagram
 
 ## Contact
-Rodney Acosta · rodneyx1222@gmail.com
+Rodney X. Acosta · rodneyx1222@gmail.com
